@@ -1,0 +1,2 @@
+"""Bulk certificate generation API."""
+

@@ -1,0 +1,38 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.venv312/
+data/
+*.pyc
+frontend/node_modules/
+frontend/dist/
+
+# Python
+.venv/
+.venv312/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Database / generated files
+data/jobs.sqlite3
+data/*.sqlite3
+data/certificates/
+
+# Python cache
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
